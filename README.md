@@ -4,6 +4,11 @@ Apphive is a open-source framework to build Microapps.
 
 Microapps is the UI counterpart for the Microservices which is a architectural solution for monolithic UI applications.
 
+## What is Microapps
+
+Microapps is the solution to bring software application harmony at  enterprice, which will consolidate SSO requiremnt with in Microservices solutions and among independent systems belowng to an Organization.   
+
+
 ## Benefits of the Microapps
 
  * Easy to maintain.
