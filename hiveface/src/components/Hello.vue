@@ -1,6 +1,8 @@
 <template>
   <div class="hello">
     <h1>{{ welcome }}</h1>
+    <img src="../assets/logo.png" alt="Apphive Logo">  
+    <h1>Apphive Hiveface</h1>
     <h2>{{ tagline }}</h2>
   </div>
 </template>
@@ -10,7 +12,7 @@ export default {
   name: 'hello',
   data () {
     return {
-      welcome: 'Welcome To Hiveface',
+      welcome: 'Welcome !!!',
       tagline: 'Face of the Apphive'
     }
   }
