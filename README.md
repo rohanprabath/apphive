@@ -20,3 +20,9 @@ Microapps can be considered as the UI counterpart of the the Microservices.
  * Better user experience.
  * Application harmony.
    - Microapps can also bring software application harmony at enterprise, which will consolidate SSO requirement with in Microservices solutions and among independent systems belong to an Organization.
+
+## What is Apphive
+
+Apphive is open-source microapps framework which will allow applications to developed as group of independent smaller applications. Apphive will provide the shelve in order to organize and keep these independent smaller applications together.
+
+![Monolithic vs Microapps](./docs/images/apphive_overview.png)
